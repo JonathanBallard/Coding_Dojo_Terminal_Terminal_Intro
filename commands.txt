@@ -1,0 +1,17 @@
+ls
+cd 'Coding Dojo'
+cd terminal
+touch index.html
+ls
+touch style.css
+touch commands.txt
+ls
+cp index.html index2.html
+ls
+mkdir destination
+ls
+mv index2.html destination
+ls
+rm style.css
+rm -rf destination
+ls
